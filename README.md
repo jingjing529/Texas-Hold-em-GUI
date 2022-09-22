@@ -12,16 +12,7 @@ Python Texas-Hold-em-GUI.py
 
 ## Instructions
 * Hand Values
-Rank	Name		Description	
-9	Highcard		Simple value of the card. Lowest: 2 – Highest: Ace
-8	Pair		Two cards with the same value
-7	Two pairs	Two times two cards with the same value
-6	Three of a kind	Three cards with the same value
-5	Straight		Sequence of 5 cards in increasing value
-4	Flush		5 cards of the same suit
-3	Full house	Combination of three of a kind and a pair
-2	Four of a kind	Four cards of the same value
-1	Straight flush	Straight of the same suit
+<img width="659" alt="Screen Shot 2022-09-22 at 10 29 09 AM" src="https://user-images.githubusercontent.com/104955830/191813071-b151c283-8315-47e2-b8c9-d763c577098e.png">
 Reference: https://en.wikipedia.org/wiki/Texas_hold_%27em
 
 * Game start
